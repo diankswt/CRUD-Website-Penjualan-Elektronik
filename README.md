@@ -1,6 +1,6 @@
 ## 📌 Preview
 
-![Dashboard Zapstore](screenshots/dashboard.png)
+![Dashboard Zapstore](dashboard.png)
 # 🛒 Zapstore – Sistem Informasi Penjualan Elektronik
 
 **Zapstore** merupakan aplikasi berbasis web untuk mengelola data penjualan toko elektronik. Aplikasi ini dirancang untuk membantu admin dalam mengelola data barang, pembeli, dan transaksi serta memantau ringkasan penjualan melalui dashboard.
